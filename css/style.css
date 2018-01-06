@@ -23,6 +23,10 @@ h2 {
 	text-transform: uppercase;
 }
 
+h3 {
+	font-family: "Droid Serif", serif;
+}
+
 p {
 	font-family: "Droid Serif", serif;
 	line-height: 26px;
@@ -103,7 +107,15 @@ a:hover {
 	border-bottom: 2px solid white;
 }
 
+.text-right {
+	text-align: right;
 
+}
+
+.padding-removed {
+	padding: 0;
+	margin: 0;
+}
 
 
 
